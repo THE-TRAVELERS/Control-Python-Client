@@ -24,6 +24,8 @@ Then, install the dependencies and build the Docker image using:
 make install
 ```
 
+Before running the service, connect the PS5 controller to the computer running the project. You can do this via USB or Bluetooth. If you are using Bluetooth, make sure [the controller is paired with your computer](https://www.playstation.com/support/hardware/pair-dualsense-controller-bluetooth/).
+
 And then, run the service:
 
 ```bash
